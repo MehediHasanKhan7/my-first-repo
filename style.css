@@ -1,5 +1,4 @@
-p{
+h1, h2{
     background-color: darkgreen;
     color: dodgerblue;
-    display: flex;
 }
